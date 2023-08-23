@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(197, 197, 226);
+    margin: 3px 3px 3px 3px;
+}
+
+div {
+    /* width: 100px; */
+    height: 60px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(58, 58, 189);
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form {
+    float: right;
+}
+
+#img {
+    float: left;
+    padding-top: 210px;
+}
+
+h1 {
+    font-family: cursive;
+    color: rgb(44, 44, 122);
+}
+
+h2 {
+    color: rgb(21, 21, 51);
+    text-decoration: underline;
+}
+
+h4 {
+    color: rgb(21, 21, 51);
+}
+
+input {
+    size: 100px;
+}
+
+#p {
+    color: rgb(21, 21, 51)
+}
+
+label {
+    font-size: medium;
+    color: rgb(22, 22, 88);
+    font-weight: bold;
+}
+
+button {
+    width: 90px;
+    height: 40px;
+    background-color: green;
+    color: white;
+    border: 1px solid white;
+    /* border-radius: 20px; */
+    padding: 5px 5px 5px 5px;
+    align-items: center;
+    margin-left: 30%;
+}
